@@ -1,1 +1,1 @@
-print("yes")
+getgenv(0).test = "abc"
